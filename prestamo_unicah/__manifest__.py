@@ -6,12 +6,11 @@
     "author": "David Alejandro Carcamo Espinal",
     "depends": ["mail"],
     "data": [
-        "security/ir.access.csv",
+        "security/ir.model.access.csv",
         "data/prestamo_equipo_data.xml",
         "views/prestamo_equipo_views.xml",
         "views/prestamo_views.xml",
         "views/res_partner_views.xml",
-
     ],
     "application": True,
     "license": "LGPL-3",
